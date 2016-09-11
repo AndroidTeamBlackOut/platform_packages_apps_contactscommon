@@ -168,7 +168,9 @@
     <!-- Background color for the call subject history view. -->
     <color name="call_subject_history_background">#ffffff</color>
     <color name="search_video_call_icon_tint">@color/searchbox_hint_text_color</color>
-
+    <color name="contact_tile_text_color">#ff202020</color>
+    <color name="frequent_contact_text_color">#ff000000</color>
+    <color name="quick_contact_text_color">#ffffffff</color>
 <!-- Background colors for LetterTileDrawables definitions. -->
     <color name="letter_tile_red_color">#DB4437</color>
     <color name="letter_tile_pink_color">#E91E63</color>
@@ -198,5 +200,6 @@
     <color name="letter_tile_orange_color_dark">#E65100</color>
     <color name="letter_tile_deep_orange_color_dark">#E64A19</color>
     <color name="letter_tile_grey_color_dark">#424242</color>
+
 
 </resources>
