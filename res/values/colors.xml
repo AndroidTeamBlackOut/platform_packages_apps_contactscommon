@@ -168,6 +168,7 @@
     <!-- Background color for the call subject history view. -->
     <color name="call_subject_history_background">#ffffff</color>
     <color name="search_video_call_icon_tint">@color/searchbox_hint_text_color</color>
+    <color name="search_back_button_tint_color">#ff0288d1</color>
     <color name="contact_tile_text_color">#ff202020</color>
     <color name="frequent_contact_text_color">#ff000000</color>
     <color name="quick_contact_text_color">#ffffffff</color>
